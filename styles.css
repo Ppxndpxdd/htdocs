@@ -1,0 +1,16 @@
+h1{
+    color: rgb(94, 148, 235);
+}
+#detail{
+    font-size: 150%;
+    color: rgb(40, 36, 36);
+}
+#detail1{
+    font-size: 80%;
+    color: rgb(40, 36, 36);
+    -webkit-margin-start: 1rem ;
+}
+#box{
+    -webkit-margin-start: 1rem;
+
+}
